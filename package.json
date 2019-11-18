@@ -2,7 +2,7 @@
   "name": "camdiab",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/praful-aparnathi/react-gh-pages",
+  "homepage": "https://praful-aparnathi.github.io/Camdiab",
   "dependencies": {
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
@@ -16,7 +16,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
