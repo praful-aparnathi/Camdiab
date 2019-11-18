@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.192" height="30.192" viewBox="0 0 30.192 30.192">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <g id="Plus_Button_Unselected" data-name="Plus Button Unselected" transform="translate(1.1 1.092)">
+    <g id="Plus_Button" data-name="Plus Button">
+      <path id="Line" class="cls-1" d="M.5,1.5l25-.5" transform="translate(1.019 12.773) rotate(1)"/>
+      <path id="Line-2" data-name="Line" class="cls-1" d="M.5,1.5l25-.5" transform="matrix(0.017, -1, 1, 0.017, 12.773, 26.981)"/>
+    </g>
+  </g>
+</svg>
