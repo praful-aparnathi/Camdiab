@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.192" height="28" viewBox="0 0 30.192 28">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <g id="Plus_Button_Selected" data-name="Plus Button Selected" transform="translate(1.1)">
+    <g id="Plus_Button" data-name="Plus Button">
+      <path id="Line" class="cls-1" d="M.5,1.5l25-.5" transform="translate(1.019 12.773) rotate(1)"/>
+    </g>
+  </g>
+</svg>
